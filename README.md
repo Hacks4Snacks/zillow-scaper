@@ -1,6 +1,6 @@
 # Minimal Zillow Scraper
 
-This script will scrape Zillow based on a zip code or custom search parameters. Custom search parameters must first be created on Zillow, then the created URL string can be copied and placed as a filter within the script (example in script).
+This script will scrape Zillow based on a zip code or custom search parameters. Custom search parameters must first be created on Zillow, then the created URL string can be copied and placed as a filter within the script (example in script). The output is a CSV file and optionally, if configured, an email with the results as a table within the body of the email.
 
 ## Advisory
 
