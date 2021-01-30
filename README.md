@@ -39,6 +39,7 @@ Personally, I set this script as a CRON job to run every six (6) hours to minimi
 This will create a csv file and can be configured to send an email:
 
 Filename - properties-austin.csv
+
 Filename - properties-78634.csv (example output not shown)
 
 title,address,city,state,postal_code,days_on_zillow,price,facts and features,url
